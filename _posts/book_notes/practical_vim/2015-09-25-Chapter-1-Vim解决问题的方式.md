@@ -3,6 +3,7 @@ layout: default
 title: 第一章 Vim解决问题的方式
 ---
 # Practical Vim
+
 ## Edit Text at the Speed of Thought
 
 ## 第一章 Vim解决问题的方式
